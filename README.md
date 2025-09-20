@@ -47,11 +47,20 @@
 ---
 
 <h2>🌐 Conecta conmigo</h2>
-<p>
-  <a href="https://www.linkedin.com/in/fabian-leonardo-ortiz-cuevas/">
-    <img src="https://img.shields.io/badge/LinkedIn-FabianOrtiz-blue?style=for-the-badge&logo=linkedin" />
+<p> - GitHub: (https://github.com/fabianortiz2510) </p>
+<p> - LinkedIn:(https://www.linkedin.com/in/fabian-leonardo-ortiz-cuevas-346266295/) </p>
+
+## 🤝 Conecta conmigo
+
+<p align="left">
+  <a href="https://github.com/fabianortiz2510" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
+         alt="GitHub" width="40" height="40"/>
   </a>
-  <a href="mailto:fabian.ortiz@correo.com">
-    <img src="https://img.shields.io/badge/Email-fabian.ortiz%40correo.com-red?style=for-the-badge&logo=gmail" />
+  
+  <a href="https://www.linkedin.com/in/fabian-leonardo-ortiz-cuevas-346266295/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" 
+         alt="LinkedIn" width="40" height="40"/>
   </a>
 </p>
+
