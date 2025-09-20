@@ -2,11 +2,6 @@
 
 <h2> Sobre mí </h2>
 
-<p align="center">
-  <img src="https://github.com/fabianortiz2510/fabianortiz2510/blob/main/Portada.png" 
-       alt="Portada estilo Ghibli" width="100%" heigth="100" />
-</p
-
 <ul>
   <li>🐍 Analista de Datos</li>
   <li>📊 Desarrollador de Software </li>
@@ -14,6 +9,11 @@
   <li>⚡ <b>Automatización:</b> Modbus, BACnet, SNMP, SCADA</li>
 </ul>
 
+<p align="center">
+  <img src="https://github.com/fabianortiz2510/fabianortiz2510/blob/main/Portada.png" 
+       alt="Portada estilo Ghibli" width="100%" heigth="100" />
+</p
+  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
