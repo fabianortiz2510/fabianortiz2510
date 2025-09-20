@@ -2,6 +2,8 @@
 
 <h2> Sobre mí </h2>
 
+<p> img="https://github.com/fabianortiz2510/fabianortiz2510/blob/main/Portada.png"
+</p>
 <ul>
   <li>🐍 Analista de Datos</li>
   <li>📊 Desarrollador de Software </li>
