@@ -3,7 +3,7 @@
 <h2> Sobre mí </h2>
 
 <p align="center">
-  <img src="https://github.com/fabianortiz2510/fabianortiz2510/raw/main/Portada.png" 
+  <img src="https://github.com/fabianortiz2510/fabianortiz2510/blob/main/Portada.png" 
        alt="Portada estilo Ghibli" width="100%" />
 </p
 
