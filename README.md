@@ -44,13 +44,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabianOrtiz01&layout=compact&theme=tokyonight" />
 </p>
 
----
-
-<h2>🌐 Conecta conmigo</h2>
-<p> - GitHub: (https://github.com/fabianortiz2510) </p>
-<p> - LinkedIn:(https://www.linkedin.com/in/fabian-leonardo-ortiz-cuevas-346266295/) </p>
-
-## 🤝 Conecta conmigo
+## 🌐 Conecta conmigo
 
 <p align="left">
   
