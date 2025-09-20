@@ -53,14 +53,11 @@
 ## 🤝 Conecta conmigo
 
 <p align="left">
-  <a href="https://github.com/fabianortiz2510" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
-         alt="GitHub" width="40" height="40"/>
-  </a>
   
   <a href="https://www.linkedin.com/in/fabian-leonardo-ortiz-cuevas-346266295/" target="_blank">
     <img src="https://github.com/fabianortiz2510/fabianortiz2510/blob/main/linkedin.png" 
          alt="LinkedIn" width="40" height="40"/>
   </a>
+  
 </p>
 
