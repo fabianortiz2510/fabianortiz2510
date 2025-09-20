@@ -11,7 +11,7 @@
 
 <p align="center">
   <img src="https://github.com/fabianortiz2510/fabianortiz2510/blob/main/Portada.png" 
-       alt="Portada estilo Ghibli" width="100%" heigth="100" />
+       alt="Portada estilo Ghibli" width="100%" heigth="5" />
 </p
   
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
