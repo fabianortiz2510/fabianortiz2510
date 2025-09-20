@@ -9,11 +9,9 @@
   <li>⚡ <b>Automatización:</b> Modbus, BACnet, SNMP, SCADA</li>
 </ul>
 
-<p align="center">
-  📊 <b>Analista de Datos</b> | ⚡ <b> Monitor Académico Inteligencia Artificial | <b> Desarrollador de Software </b>
-</p>
-
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 <h2>🚀 Habilidades Técnicas</h2>
 <ul>
