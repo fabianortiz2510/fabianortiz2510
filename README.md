@@ -59,7 +59,7 @@
   </a>
   
   <a href="https://www.linkedin.com/in/fabian-leonardo-ortiz-cuevas-346266295/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" 
+    <img src="https://github.com/fabianortiz2510/fabianortiz2510/blob/main/linkedin.png" 
          alt="LinkedIn" width="40" height="40"/>
   </a>
 </p>
