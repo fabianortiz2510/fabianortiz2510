@@ -59,7 +59,7 @@
          alt="LinkedIn" width="40" height="40"/>
   </a>
 
-  <a href="fabioleorcu20@gmail.com" target="_blank">
+  <a href="mailto:fabioleorcu20@gmail.com" target="_blank">
     <img src="https://github.com/fabianortiz2510/fabianortiz2510/blob/main/gmail.png" 
          alt="Gmail" width="40" height="40"/>
   </a>
