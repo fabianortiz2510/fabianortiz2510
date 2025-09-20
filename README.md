@@ -2,7 +2,12 @@
 
 <h2> Sobre mí </h2>
 
+<p align="center">
+  <img src="https://github.com/fabianortiz2510/fabianortiz2510/raw/main/Portada.png" 
+       alt="Portada estilo Ghibli" width="100%" />
+</p
 
+  https://github.com/fabianortiz2510/fabianortiz2510/edit/main/README.md
 <ul>
   <li>🐍 Analista de Datos</li>
   <li>📊 Desarrollador de Software </li>
