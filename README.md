@@ -3,10 +3,10 @@
 <h2> Sobre mí </h2>
 
 <ul>
-  <li>🐍 Analista de Datos</li>
-  <li>📊 Desarrollador de Software </li>
-  <li>🖥️ Monitor Académico Inteligencia Artificial </li>
-  <li>⚡ Ingeniero Electrónico </li> 
+  <li> Analista de Datos</li>
+  <li> Desarrollador de Software </li>
+  <li> Monitor Académico Inteligencia Artificial </li>
+  <li> Ingeniero Electrónico </li> 
 </ul>
 
 <p 
