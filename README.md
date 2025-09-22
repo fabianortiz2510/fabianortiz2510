@@ -43,8 +43,8 @@
 
 <h2>📈 Estadísticas de GitHub</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FabianOrtiz01&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabianOrtiz01&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fabianortiz2510&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabianortiz2510&layout=compact&theme=tokyonight" />
 </p>
 
 ## 🌐 Conecta conmigo
