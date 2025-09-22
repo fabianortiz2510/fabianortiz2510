@@ -31,7 +31,7 @@
 
 ---
 
-<h2>📂 Proyectos Destacados</h2>
+<h2> Proyectos Destacados</h2>
 <ul>
   <li><a href="https://github.com/usuario/proyecto1">📊 Dashboard Energético en Power BI</a></li>
   <li><a href="https://github.com/usuario/proyecto2">⚡ Monitoreo de UPS con Node-RED y SNMP</a></li>
