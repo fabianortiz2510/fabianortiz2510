@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hola, soy Fabián Leonardo Ortiz Cuevas 👋
+# Fabián Leonardo Ortiz Cuevas 
 
 ### Data Scientist | AI Engineer | Backend Developer
 
-Ingeniero Electrónico | Magíster en Ciencia de Datos (en curso) · Duitama, Boyacá, Colombia
+Ingeniero Electrónico | Especialista en Gestión Estratégica de Proyectos |Magíster en Ciencia de Datos (en curso) · Duitama, Boyacá, Colombia
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabian-ortiz-346266295)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fabioleorcu20@gmail.com)
@@ -16,15 +16,7 @@ Ingeniero Electrónico | Magíster en Ciencia de Datos (en curso) · Duitama, Bo
 
 ## 🧭 Sobre mí
 
-Ingeniero electrónico y estudiante de Maestría en Ciencia de Datos, con experiencia en el diseño y desarrollo de soluciones de **Inteligencia Artificial**, **ciencia de datos** y **desarrollo backend**. Me especializo en la construcción de **agentes inteligentes basados en LLMs**, desarrollo de APIs con **Python y FastAPI**, procesamiento y análisis de datos con **SQL y BigQuery**, y automatización de procesos mediante IA.
-
-Cuento con experiencia en el diseño de **arquitecturas multiagente** e integración de servicios en la nube, orientadas a soluciones escalables que combinan ingeniería de datos, analítica e inteligencia artificial para resolver problemas de negocio reales.
-
-- 🔭 Actualmente trabajando como **Data Scientist en BPSmart**, desarrollando servicios backend con FastAPI, agentes de IA basados en LLMs y servidores MCP (Model Context Protocol).
-- 🎓 Cursando la **Maestría en Ciencia de Datos** en la Universidad EAN (Bogotá D.C.).
-- 🌱 Profundizando en arquitecturas multiagente, RAG y procesamiento de datos en la nube con Azure Databricks.
-- 💬 Pregúntame sobre Python, FastAPI, LLMs/agentes de IA, SQL/BigQuery o Power BI.
-- 📫 Contacto: **fabioleorcu20@gmail.com**
+Ingeniero electrónico y estudiante de Maestría en Ciencia de Datos, con experiencia en el diseño y desarrollo de soluciones de Inteligencia Artificial, ciencia de datos y desarrollo backend. Me especializo en la construcción de agentes inteligentes basados en LLMs, desarrollo de APIs con Python y FastAPI, procesamiento y análisis de datos con SQL y BigQuery, y automatización de procesos mediante IA.Cuento con experiencia en el diseño de arquitecturas multiagente e integración de servicios en la nube, orientadas a soluciones escalables que combinan ingeniería de datos, analítica e inteligencia artificial para resolver problemas de negocio reales.
 
 ---
 
@@ -109,10 +101,4 @@ Cuento con experiencia en el diseño de **arquitecturas multiagente** e integrac
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabianortiz2510&layout=compact&theme=tokyonight" height="165" />
 </p>
 
----
 
-<div align="center">
-
-📫 **¿Hablamos?** Escríbeme a [fabioleorcu20@gmail.com](mailto:fabioleorcu20@gmail.com) o conéctate en [LinkedIn](https://www.linkedin.com/in/fabian-ortiz-346266295)
-
-</div>
