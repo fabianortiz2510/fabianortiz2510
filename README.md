@@ -82,7 +82,7 @@ Ingeniero electrónico y estudiante de Maestría en Ciencia de Datos, con experi
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🚀 Proyectos 
 
 <!-- TODO: reemplaza estos enlaces por tus repositorios reales -->
 <ul>
