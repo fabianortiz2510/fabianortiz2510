@@ -97,8 +97,7 @@ Electronics engineer and Master's student in Data Science, with experience desig
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fabianortiz2510&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabianortiz2510&layout=compact&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats-rickstaa.vercel.app/api?username=fabianortiz2510&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=fabianortiz2510&layout=compact&theme=tokyonight" height="165" />
 </p>
-
 
